@@ -1,6 +1,6 @@
 public class Bookstore {
 	public static void main(String[] args) {
-		double harga1=50000;
+		double harga1=60000;
     	int jml=1;
 
 			System.out.println("==========TOKO BUKU JAYA==========");
@@ -16,8 +16,8 @@ public class Bookstore {
 	        System.out.println("Konfirmasi? y/n: y");
 	        System.out.println("----------STRUK PEMBELIAN----------");
 	        System.out.println("________________________________________");
-	        System.out.println("|Dillan 1990                | Rp50.000");
-	        System.out.println("|Total                      | Rp50.000");
+	        System.out.println("|Dillan 1990                | Rp60.000");
+	        System.out.println("|Total                      | Rp60.000");
 	        System.out.println("________________________________________");
 	        System.out.println("----------TERIMA KASIH----------");
 	   }     
