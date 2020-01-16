@@ -1,6 +1,6 @@
 public class Bookstore {
 	public static void main(String[] args) {
-		double harga1=50000;
+		double harga1=40000;
     	int jml=1;
 
 			System.out.println("==========TOKO BUKU JAYA==========");
